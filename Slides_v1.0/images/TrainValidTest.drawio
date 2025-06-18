@@ -1,0 +1,75 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/26.0.16 Chrome/132.0.6834.196 Electron/34.2.0 Safari/537.36" version="26.0.16" pages="2">
+  <diagram name="Train-Valid" id="U5_1Oy34C5UkodRw4zH1">
+    <mxGraphModel dx="864" dy="543" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="x9y9KSr8N5RZs1Fy5Y4G-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="80" y="200" width="360" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="x9y9KSr8N5RZs1Fy5Y4G-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="440" y="200" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="x9y9KSr8N5RZs1Fy5Y4G-3" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="248.95" y="123.18" width="20" height="359.62" as="geometry" />
+        </mxCell>
+        <mxCell id="x9y9KSr8N5RZs1Fy5Y4G-4" value="Full input dataset" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=21;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="213.5" y="138" width="175" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="x9y9KSr8N5RZs1Fy5Y4G-5" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="291" y="-40" width="20" height="440" as="geometry" />
+        </mxCell>
+        <mxCell id="x9y9KSr8N5RZs1Fy5Y4G-6" value="Train on this" style="text;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=21;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="189.33" y="310" width="139.25" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="x9y9KSr8N5RZs1Fy5Y4G-7" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="469.62" y="262.63" width="20" height="80.75" as="geometry" />
+        </mxCell>
+        <mxCell id="x9y9KSr8N5RZs1Fy5Y4G-8" value="Evaluate&lt;br&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;on this&lt;/span&gt;&lt;/div&gt;" style="text;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=21;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="430" y="312" width="100" height="53.63" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="ZuykMHfoMdL295HOjCtV" name="Train-Valid-Test">
+    <mxGraphModel dx="1253" dy="788" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="-Rfu4CTrrILeND5vTWhP-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="320" y="320" width="300" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-Rfu4CTrrILeND5vTWhP-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="620" y="320" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-Rfu4CTrrILeND5vTWhP-3" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="460.03999999999996" y="273.22" width="20" height="299.58" as="geometry" />
+        </mxCell>
+        <mxCell id="-Rfu4CTrrILeND5vTWhP-4" value="Full input dataset" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=21;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="454.5" y="255" width="173" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-Rfu4CTrrILeND5vTWhP-5" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="531" y="80" width="20" height="440" as="geometry" />
+        </mxCell>
+        <mxCell id="-Rfu4CTrrILeND5vTWhP-6" value="Train on this" style="text;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=21;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="400.71000000000004" y="433.38" width="138.57" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-Rfu4CTrrILeND5vTWhP-7" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="649.5699999999999" y="383.58" width="20" height="78.85" as="geometry" />
+        </mxCell>
+        <mxCell id="-Rfu4CTrrILeND5vTWhP-8" value="Evaluate&amp;nbsp;&lt;br&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;on this&lt;/span&gt;" style="text;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=21;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="610" y="433.38" width="96" height="51.24" as="geometry" />
+        </mxCell>
+        <mxCell id="-Rfu4CTrrILeND5vTWhP-9" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="700" y="320" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-Rfu4CTrrILeND5vTWhP-10" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="721.3" y="391.32" width="20" height="63.38" as="geometry" />
+        </mxCell>
+        <mxCell id="-Rfu4CTrrILeND5vTWhP-11" value="Test&amp;nbsp;&lt;br&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;on this&lt;/span&gt;" style="text;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=21;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="691.3" y="433.38" width="86.7" height="51.24" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

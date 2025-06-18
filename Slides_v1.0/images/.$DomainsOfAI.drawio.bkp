@@ -1,0 +1,46 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/26.0.16 Chrome/132.0.6834.196 Electron/34.2.0 Safari/537.36" version="26.0.16">
+  <diagram name="Page-1" id="eof0m9JRYIyGzXWUkwBd">
+    <mxGraphModel dx="1420" dy="788" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="823k8HmFhmDlSo0YvTMR-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=27;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=3.1496;gradientColor=#ffd966;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="157" y="80" width="800" height="570" as="geometry" />
+        </mxCell>
+        <mxCell id="823k8HmFhmDlSo0YvTMR-2" value="&lt;span&gt;ARTIFICIAL INTELLIGENCE&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;textShadow=1;fontColor=#994C00;fontStyle=1;fontSize=37;shadow=0;glass=0;" parent="1" vertex="1">
+          <mxGeometry x="300.5" y="110" width="513" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="823k8HmFhmDlSo0YvTMR-4" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=27;fillColor=#ffcd28;strokeColor=#d79b00;strokeWidth=3.1496;gradientColor=#ffa500;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="188.25" y="240" width="737.5" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="823k8HmFhmDlSo0YvTMR-5" value="&lt;span style=&quot;font-family: Helvetica; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;MACHINE LEARNING&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;textShadow=1;fontColor=#990000;fontStyle=1;fontSize=37;" parent="1" vertex="1">
+          <mxGeometry x="365.5" y="270" width="383" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="823k8HmFhmDlSo0YvTMR-7" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=27;fillColor=#a0522d;strokeColor=#6D1F00;strokeWidth=1.9685;fontColor=#ffffff;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="210" y="360" width="214" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="823k8HmFhmDlSo0YvTMR-9" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=27;fillColor=#60a917;strokeColor=#2D7600;strokeWidth=1.9685;fontColor=#ffffff;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="438" y="360" width="206" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="823k8HmFhmDlSo0YvTMR-11" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=27;fillColor=#1ba1e2;strokeColor=#006EAF;strokeWidth=1.9685;fontColor=#ffffff;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="657" y="360" width="220" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="823k8HmFhmDlSo0YvTMR-13" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=27;fillColor=light-dark(#68ca8f, #047431);strokeColor=#3A5431;strokeWidth=1.9685;fontColor=#ffffff;shadow=1;gradientColor=#B04F4F;gradientDirection=west;" parent="1" vertex="1">
+          <mxGeometry x="290" y="513" width="248" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="823k8HmFhmDlSo0YvTMR-8" value="&lt;span style=&quot;font-family: Helvetica; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;SUPERVISED&lt;br&gt;&amp;nbsp;LEARNING&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;textShadow=0;fontSize=20;fontColor=#FFFFFF;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="255" y="380" width="124" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="823k8HmFhmDlSo0YvTMR-10" value="&lt;span style=&quot;font-family: Helvetica; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;UNSUPERVISED&lt;br&gt;&amp;nbsp;LEARNING&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;textShadow=0;fontSize=20;fontColor=#FFFFFF;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="464.5" y="380" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="823k8HmFhmDlSo0YvTMR-12" value="&lt;span style=&quot;font-family: Helvetica; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;DEEP&lt;br&gt;REINFORCEMENT&lt;br&gt;&amp;nbsp;LEARNING&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;textShadow=0;fontSize=20;fontColor=#FFFFFF;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="690.5" y="380" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="823k8HmFhmDlSo0YvTMR-14" value="SELF-SUPERVISED&lt;br&gt;LEARNING" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;textShadow=0;fontSize=20;fontColor=#FFFFFF;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="310" y="514" width="200" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
